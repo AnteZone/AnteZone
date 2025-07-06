@@ -1,7 +1,6 @@
-# 🔷 AnteZone
+# AnteZone
 
-**AnteZone** is a **next-generation decentralized, open-source, on-chain broker platform** built on the **Polygon** blockchain.  
-We're building a global, trustless, and transparent Web3 gaming ecosystem 🎮💸 — designed for speed, fairness, and true ownership.
+**AnteZone** is a **next-gen 🔥 Decentralized 💻, Open Source 🌐, On-Chain ⛓️ Poker Platform 🃏** built on the **Polygon** blockchain.  
 
 ---
 
