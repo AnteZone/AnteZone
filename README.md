@@ -1,48 +1,69 @@
 # 🔷 AnteZone
 
-**AnteZone** is a next-generation decentralized, open-source, on-chain broker platform built on the **Polygon** blockchain. We're building a global, trustless, and transparent Web3 poker & gaming ecosystem that eliminates traditional barriers and brings full control back to the players.
+**AnteZone** is a **next-generation decentralized, open-source, on-chain broker platform** built on the **Polygon** blockchain.  
+We're building a global, trustless, and transparent Web3 gaming ecosystem 🎮💸 — designed for speed, fairness, and true ownership.
 
 ---
 
-## 🚧 Development Phase
+## 🚧 Development Phase 🛠️
 
-AnteZone is currently under active development.  
-Our team is working hard to build a robust and secure platform from the ground up. Once development is complete, **all source code** will be publicly available in this repository.
+**AnteZone is currently under active development.**  
+Our team is grinding hard 💻 to deliver a secure, scalable, and transparent platform.  
+Once development is complete, **ALL source code** will be released here — under full **AnteZone open-source rights** 🔓.
 
-Yes — we mean **everything**.
-
----
-
-## 📂 Open Source Commitment
-
-AnteZone is committed to being **fully open-source**.  
-Every single line of code, every module, every component — will be hosted right here on this GitHub under AnteZone rights. We believe in transparency, collaboration, and the power of community-led development.
-
-Whether you're a dev, a contributor, or just someone curious — you’ll have **full offline access** to the entire codebase once released.
+> 🔥 **Yes — everything will be open. Every single line of code. Offline accessible. No gatekeeping.**
 
 ---
 
-## 🌐 Official Links
+## 🤝 Fundraising Round 💰
 
-- 🌍 Official Website: [https://www.ante.zone](https://www.ante.zone)  
-- 📝 Official Blog: [https://blog.ante.zone](https://blog.ante.zone)
-
-Please avoid engaging with any third-party sites claiming to be AnteZone. The above are our **only official URLs**.
-
----
-
-## 📫 Contact
-
-For queries, partnerships, or contributions, reach out directly to our Chief Operating Officer:  
-**📩 prince@ante.zone**
+**AnteZone is currently in its 3-seed fundraising phase.**  
+We're onboarding early investors who align with our long-term Web3 vision 🚀  
+Wanna be a part of the future? Let's talk.
 
 ---
 
-## 🔐 License
+## 📂 Full Open Source Commitment 🌍
 
-The licensing model will be added post-development along with the full release.  
-Until then, please respect the developmental nature of this project and refrain from cloning or distributing any partial materials outside the AnteZone ecosystem.
+AnteZone is **super open-source** 🧠 — transparency is our default.  
+The **entire codebase**, from smart contracts to front-end logic, will be accessible right here in this repo 📦 once released.
+
+We’re building in public, for the public. 💯
 
 ---
 
-Stay tuned. AnteZone is just getting started. 💼🔥
+## 🌐 Official Links 🔗
+
+Don’t trust fake sites. Only interact with the **official AnteZone URLs** below ⛔🧠:
+
+- 🏠 **Website:** `https://www.ante.zone`
+- 📝 **Blog:** `https://blog.ante.zone`
+- 🐦 **Twitter:** `https://x.com/AnteZone`
+- 💼 **LinkedIn:** `https://www.linkedin.com/company/antezone/`
+- ✈️ **Telegram:** `https://t.me/AnteZoneOfficial`
+- 📅 **Calendly:** `https://calendly.com/antezone`
+
+> ⚠️ **Please DO NOT engage with any other URL claiming to be AnteZone.**
+
+---
+
+## 📫 Contact Us 💬
+
+For business, collabs, or development inquiries, hit up our COO directly:  
+📩 **prince@ante.zone**
+
+We're always open to serious convos with Web3 builders, devs, and investors 🤝
+
+---
+
+## 🔐 License Info 🧾
+
+License details will be shared at the time of full source release.  
+Until then, please **do not clone or redistribute any materials** unless permitted directly by AnteZone core team.
+
+---
+
+## 🧠 Stay tuned...
+
+**AnteZone is just getting started** — and we’re not slowing down 🔥  
+Follow our socials, track the repo, and be ready for launch 🚀
