@@ -16,7 +16,7 @@ Once development is complete, **ALL source code** will be released here — unde
 
 ## 🤝 Fundraising Round 💰
 
-**AnteZone is currently in its 3-seed fundraising phase.**  
+**AnteZone is currently in its pre-seed fundraising phase.**  
 We're onboarding early investors who align with our long-term Web3 vision 🚀  
 Wanna be a part of the future? Let's talk.
 
@@ -48,8 +48,8 @@ Don’t trust fake sites. Only interact with the **official AnteZone URLs** belo
 
 ## 📫 Contact Us 💬
 
-For business, collabs, or development inquiries, hit up our COO directly:  
-📩 **prince@ante.zone**
+For business, collabs, or development inquiries, hit us directly to our team:  
+📩 **team@ante.zone**
 
 We're always open to serious convos with Web3 builders, devs, and investors 🤝
 
