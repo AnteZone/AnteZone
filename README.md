@@ -1,6 +1,6 @@
 # AnteZone
 
-**AnteZone** is a **next-gen 🔥 Decentralized 💻, Open Source 🌐, On-Chain ⛓️ Poker Platform 🃏** built on the **Polygon** blockchain.  
+**AnteZone** is a **next-gen 🔥 Decentralized 💻, Open Source 🌐, On-Chain ⛓️ Web 3 Gaming Poker Protocol 🃏** built on the **Polygon** blockchain.  
 
 ---
 
